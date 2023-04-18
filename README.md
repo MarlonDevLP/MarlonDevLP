@@ -9,7 +9,7 @@
 
 ![Marlon GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonDevLP&show_icons=true&theme=tokyonight)
 
-##Teclogias 
+##Tecnologias 
 <div 
  style="display: inline_block">
  <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"
