@@ -8,7 +8,7 @@
 )](https://www.linkedin.com/in/marlon-silva-3483b5271/)
 
 ![Marlon GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonDevLP&show_icons=true&theme=transparent)
-<p<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrehlb&layout=compact&langs_count=7&theme=transparent"/> </p>
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonDevLP&layout=compact&langs_count=7&theme=transparent"/> </p>
 
 
 <div 
